@@ -1,0 +1,26 @@
+
+body {
+    background-color: #f4f4f4; 
+    padding: 20px; 
+    margin: 0; 
+    font-family: 'Roboto', sans-serif; 
+}
+
+
+.habilidade-1 {
+    color: #e74c3c; 
+}
+
+.habilidade-2 {
+    color: #f39c12; 
+}
+
+.habilidade-3 {
+    color: #2ecc71; 
+}
+
+
+.bio p {
+    font-size: 1.2em; 
+    margin: 10px 0; 
+}
